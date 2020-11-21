@@ -11,7 +11,7 @@ body{
     -webkit-box-shadow: 6px 6px 2px 1px rgba(0,0,0,0.87);
     box-shadow: 6px 6px 2px 1px rgba(0,0,0,0.87);
     width: 250px;
-    height: 600px;
+    height: 650px;
     text-align: center;
     margin: auto;
     transition: 0.3s;
@@ -21,8 +21,10 @@ body{
     background-image: url("https://wallpaperaccess.com/full/1107092.jpg");
     height:150px;
     width: 250px;
-    margin: -70px;
-    /*position: relative;*/
+    overflow: hidden;
+    margin-top: -70px;
+    margin-bottom: -70px;
+
 }
 .userName{
     font-weight: bold;
