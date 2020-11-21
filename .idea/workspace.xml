@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcf43de5-f02a-4572-9b79-35e4fd8c9dcd" name="Default Changelist" comment="">
+    <list default="true" id="dcf43de5-f02a-4572-9b79-35e4fd8c9dcd" name="Default Changelist" comment="I add background-color in css code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
     </list>
@@ -64,14 +64,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605950544695</updated>
-      <workItem from="1605950545760" duration="3466000" />
+      <workItem from="1605950545760" duration="4106000" />
     </task>
+    <task id="LOCAL-00001" summary="I add background-color in css code">
+      <created>1605954056810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605954056810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I add background-color in css code" />
+    <option name="LAST_COMMIT_MESSAGE" value="I add background-color in css code" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="390" y="222" width="575" height="357" key="#Notifications" timestamp="1605954081715">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="390" y="222" width="575" height="357" key="#Notifications/0.27.1366.741@0.27.1366.741" timestamp="1605954081715" />
     <state x="544" y="297" width="277" height="207" key="Github.ShareDialog" timestamp="1605953386338">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -128,9 +144,17 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1343" height="215" key="GridCell.Tab.2.right/0.27.1366.741@0.27.1366.741" timestamp="1605952319951" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1605954061051">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1605954061051" />
     <state x="297" y="37" width="762" height="728" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605950954005">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="297" y="37" width="762" height="728" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1605950954005" />
+    <state x="464" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605954036392">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="464" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1605954036392" />
   </component>
 </project>

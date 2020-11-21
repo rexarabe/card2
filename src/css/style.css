@@ -5,16 +5,9 @@
 body{
     background: linear-gradient(#e66465, #9198e5);
 }
-.headerpicture{
-    background-image: url("https://wallpaperaccess.com/full/1107092.jpg");
-    height:150px;
-    width: 250px;
-    margin: -75px;
-    text-align: center;
-    /*position: relative;*/
-}
+
 .userCard{
-    color: white;
+    color: navajowhite;
     -webkit-box-shadow: 6px 6px 2px 1px rgba(0,0,0,0.87);
     box-shadow: 6px 6px 2px 1px rgba(0,0,0,0.87);
     width: 250px;
@@ -22,7 +15,14 @@ body{
     text-align: center;
     margin: auto;
     transition: 0.3s;
-    background-color: cornflowerblue;
+    background-image: url("https://p0.pikist.com/photos/489/459/stars-astronomy-astrology-night-universe-sky-dark-cosmos-starry.jpg");
+}
+.headerpicture{
+    background-image: url("https://wallpaperaccess.com/full/1107092.jpg");
+    height:150px;
+    width: 250px;
+    margin: -70px;
+    /*position: relative;*/
 }
 .userName{
     font-weight: bold;
@@ -39,7 +39,7 @@ body{
     text-align: left;
 }
 .tableselector .greying{
-    color: grey;
+    color: dimgrey;
 }
 .golittlebitleft
 {
