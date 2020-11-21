@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+
+}
+body{
+    background: linear-gradient(#e66465, #9198e5);
+}
+.headerpicture{
+    background-image: url("https://wallpaperaccess.com/full/1107092.jpg");
+    height:150px;
+    width: 250px;
+    margin: -75px;
+    text-align: center;
+    position: relative;
+}
+.userCard{
+    color: white;
+    -webkit-box-shadow: 6px 6px 2px 1px rgba(0,0,0,0.87);
+    box-shadow: 6px 6px 2px 1px rgba(0,0,0,0.87);
+    width: 250px;
+    height: 600px;
+    text-align: center;
+    margin: auto;
+    transition: 0.3s;
+}
+.userName{
+    font-weight: bold;
+}
+.userImageContainer img{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+.userInfo{
+    color: darkgray;
+}
+.tableselector{
+    text-align: left;
+}
+.tableselector .greying{
+    color: grey;
+}
+.golittlebitleft
+{
+    border: 2px;
+    padding: 10px;
+}
+
+.imagelogo img{
+    max-height: 120px;
+    max-width: fit-content;
+}
